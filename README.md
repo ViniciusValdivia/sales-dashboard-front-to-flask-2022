@@ -1,7 +1,7 @@
 # TESTE PARA PYTHON CANDIDATOS 2022
 ## Scripts:
 
-O frontend foi feito utilizando [React](https://github.com/facebook/react), desta forma, fornecemos o build da aplicação.
+O front-end foi desenvolvido utilizando [React](https://github.com/facebook/react), desta forma, fornecemos o build da aplicação.
 
 Para rodar o frontend em sua maquina local utilize a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) ou outro mecanismo de fornecimento de página estáticas, compatível com javascript, de sua preferência.
 
